@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.wqc9637blip.ieltstool",
+        "sha256_cert_fingerprints": ["19:CB:9A:A6:AE:B1:55:79:D4:7D:BD:70:6D:88:D1:C6:5F:46:72:60:B4:05:6A:26:1D:93:1E:4A:34:0C:52:DD"]
+      }
+    }]
